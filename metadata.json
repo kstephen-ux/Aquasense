@@ -1,0 +1,6 @@
+{
+  "name": "AquaSense — Heavy Metal Water Safety Dashboard",
+  "description": "Real-time water safety monitoring and electrochemical analysis for AquaSense smart pen detectors measuring lead, arsenic, and mercury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
